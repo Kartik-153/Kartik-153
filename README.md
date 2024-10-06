@@ -1,3 +1,4 @@
+![CodingGIF](https://github.com/user-attachments/assets/7916bdb6-3036-4e9e-a766-e8a34f33e338)
 # 🤝 Socials
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -16,6 +17,9 @@
 </div>
 
 # 😒 My Tech Stack
+<div id="header" align="center">
+  <img src="(https://github.com/user-attachments/assets/7916bdb6-3036-4e9e-a766-e8a34f33e338" width="100"/>
+</div>
 
 ## Programming Languages
 <div id="header">

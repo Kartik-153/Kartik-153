@@ -20,6 +20,11 @@
 ## Programming Languages
 <div id="header">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)"/>
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)"/>
+  <img src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)"/>
 </div>
 
 

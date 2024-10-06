@@ -17,7 +17,7 @@
 
 # 😒 My Tech Stack
 <div id="header" align="center">
-  <img src="(https://github.com/user-attachments/assets/7916bdb6-3036-4e9e-a766-e8a34f33e338" width="100"/>
+  <img src="(https://github.com/user-attachments/assets/7916bdb6-3036-4e9e-a766-e8a34f33e338"/>
 </div>
 
 ## Programming Languages

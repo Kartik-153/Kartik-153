@@ -44,7 +44,7 @@
 
 # More to come stay tuned 😎
 <div id="header" align="centre">
-  <img src="https://github.com/user-attachments/assets/3e1ca37a-2662-48d1-892e-05b959c13ebd" width="1000"/>
+  <img src="https://github.com/user-attachments/assets/3e1ca37a-2662-48d1-892e-05b959c13ebd" width="500"/>
 </div>
 
 

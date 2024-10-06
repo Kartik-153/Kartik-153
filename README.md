@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="(https://github.com/user-attachments/assets/15f060cb-61a1-4484-8d44-5747294f3a4a)"/>
+  <img src="![CodingGIF](https://github.com/user-attachments/assets/2590a87c-aacc-46ba-9dea-ab7a01815db3)"/>
 </div>
 
 # 🤝 Socials

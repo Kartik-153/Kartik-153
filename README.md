@@ -1,4 +1,3 @@
-![CodingGIF](https://github.com/user-attachments/assets/2590a87c-aacc-46ba-9dea-ab7a01815db3)
 # 🤝 Socials
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -45,7 +44,7 @@
 
 # More to come stay tuned 😎
 <div id="header">
-  <img src="https://github.com/user-attachments/assets/3e1ca37a-2662-48d1-892e-05b959c13ebd"/>
+  <img src="https://github.com/user-attachments/assets/3e1ca37a-2662-48d1-892e-05b959c13ebd" width="100"/>
 </div>
 
 

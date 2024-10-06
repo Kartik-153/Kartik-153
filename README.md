@@ -1,7 +1,4 @@
-<div id="header" align="center">
-  <img src="![CodingGIF](https://github.com/user-attachments/assets/2590a87c-aacc-46ba-9dea-ab7a01815db3)"/>
-</div>
-
+![CodingGIF](https://github.com/user-attachments/assets/2590a87c-aacc-46ba-9dea-ab7a01815db3)
 # 🤝 Socials
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>

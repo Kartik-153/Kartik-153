@@ -43,7 +43,7 @@
 </div>
 
 # More to come stay tuned 😎
-<div id="header" align="centre">
+<div id="header" align="center">
   <img src="https://github.com/user-attachments/assets/3e1ca37a-2662-48d1-892e-05b959c13ebd" width="500"/>
 </div>
 

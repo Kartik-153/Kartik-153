@@ -1,4 +1,4 @@
-## Socials
+# Socials
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -15,7 +15,11 @@
   </a>
 </div>
 
-## My Tech Stack
+# My Tech Stack
 
-# Programming Languages
+## Programming Languages
+<div id="header">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"/>
+</div>
+
 

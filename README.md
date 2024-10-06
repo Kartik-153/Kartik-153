@@ -37,6 +37,14 @@
   <img src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white"/>
 </div>
 
+## Database
+<div id="header">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/>
+</div>
+
+# More to come stay tuned 😎
+
 
 
 

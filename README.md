@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://leetcode.com/u/kartik_0412/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)"/>
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)" alt="LeetCode Badge"/>
   </a>
   <a href="https://x.com/kartiksdhiman">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>

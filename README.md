@@ -1,3 +1,4 @@
+# ![TomAndJerryJerryTheMouseGIF](https://github.com/user-attachments/assets/3e1ca37a-2662-48d1-892e-05b959c13ebd)
 # Socials
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>

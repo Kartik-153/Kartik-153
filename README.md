@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)"/>
   <img src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)"/>
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?logo=go&logoColor=white"/>
 </div>
 
 ## Frameworks

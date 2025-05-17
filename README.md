@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
 </div>
 
-I'm a CSE undergrad passionate about backend engineering, machine learning, and building AI-native applications. Currently exploring advanced system simulation, medical AI, and image-based diagnosis using LLMs.
+I'm passionate about backend engineering, machine learning, and building AI-native applications. I'm currently exploring advanced system simulation, medical AI, and image-based diagnosis using LLMs.
 
 ---
 
@@ -82,11 +82,11 @@ I'm a CSE undergrad passionate about backend engineering, machine learning, and 
 # 📊 Developer Dashboard
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartiksdhiman&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartik-153&theme=radical&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=kartiksdhiman&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kartik-153&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartiksdhiman&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-153&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---

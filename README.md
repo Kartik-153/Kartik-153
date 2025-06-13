@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
 </div>
 
-I'm passionate about backend engineering, machine learning, and building AI-native applications. I'm currently exploring advanced system simulation, medical AI, and image-based diagnosis using LLMs.
+I'm passionate about backend engineering, machine learning, and building AI-native applications. I'm currently exploring advanced system simulation, medical AI, and image-based diagnosis using LLMs. And also proficient in building and running ML models on GPUs.
 
 ---
 
@@ -30,7 +30,7 @@ I'm passionate about backend engineering, machine learning, and building AI-nati
 - 🔍 **Pinecone**, **Qdrant** for vector databases
 - 🧪 **Skin Disease Detection** via CNN + LSTM on spectrograms
 - 🖼️ Image-to-text medical inference (CT scans, dermoscopy, etc.)
-- 🤖 Android system emulation using **QEMU** and **Android Emulator**
+- 🤖 Training and running ML models on GPUs.
 - 🧠 Grammar scoring using audio signals
 
 ---

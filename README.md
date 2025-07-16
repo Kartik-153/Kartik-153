@@ -22,19 +22,6 @@ I'm passionate about backend engineering, machine learning, and building AI-nati
   </a>
 </div>
 
----
-
-# 🧠 Currently Exploring
-
-- 🧬 **LLaMA 3** and **LangChain** for Retrieval-Augmented Generation (RAG)
-- 🔍 **Pinecone**, **Qdrant** for vector databases
-- 🧪 **Skin Disease Detection** via CNN + LSTM on spectrograms
-- 🖼️ Image-to-text medical inference (CT scans, dermoscopy, etc.)
-- 🤖 Training and running ML models on GPUs.
-- 🧠 Grammar scoring using audio signals
-
----
-
 # 🛠️ My Tech Stack
 
 ## 💻 Languages
